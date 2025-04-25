@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: shys-jekyll-theme
+description: "A simple but pretty jekyll theme made for Tonic"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
